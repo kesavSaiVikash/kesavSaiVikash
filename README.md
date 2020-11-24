@@ -51,7 +51,7 @@ Java, JavaScript (ES6), React JS, Bootstrap, Node JS, Express JS, Firebase Fires
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kesavSaiVikash&show_icons=true&hide_border=true" />
+  <img align="left" alt="kesavSaiVikash GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kesavSaiVikash&show_icons=true&hide_border=true" />
 
 </details>
 
