@@ -1,4 +1,4 @@
-### Hi there, I'm Vikash - aka [kesavSaiVikash][website] 👋
+### Hi there, I'm Vikash - aka [kesavSaiVikash][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 IN A NUTSHELL
 Pro at Web Development, Full Stack Development and making things look beautiful. 
