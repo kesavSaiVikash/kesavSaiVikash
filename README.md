@@ -23,10 +23,9 @@ Java, JavaScript (ES6), React JS, Bootstrap, Node JS, Express JS, Firebase Fires
 [<img align="left" alt="kesavSaiVikash" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kesavSaiVikash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kesavSaiVikash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="kesavSaiVikash | LinkedIn" width="22px" src="https://spng.pngfind.com/pngs/s/19-198304_github-logo-png-transparent-github-logo-png-png.png" />][GitHub]
-[<img align="left" alt="kesavSaiVikash | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][Medium]
-[<img align="left" alt="kesavSaiVikash | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][HacerRank]
-
+[<img align="left" alt="kesavSaiVikash | GitHub" width="22px" src="https://spng.pngfind.com/pngs/s/19-198304_github-logo-png-transparent-github-logo-png-png.png" />][GitHub]
+[<img align="left" alt="kesavSaiVikash | Medium" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />][Medium]
+[<img align="left" alt="kesavSaiVikash | HackerRank" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" />][HackerRank]
 <br />
 
 ### Languages and Tools:
