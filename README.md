@@ -30,7 +30,6 @@
 <br />
 <br />
 
-
  IN A NUTSHELL <br/>
 Pro at Web Development, Full Stack Development and making things look beautiful. 
 
