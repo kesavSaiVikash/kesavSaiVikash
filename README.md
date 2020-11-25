@@ -32,6 +32,7 @@
 
 
 IN A NUTSHELL
+<br/>
 Pro at Web Development, Full Stack Development and making things look beautiful. 
 
 🔭 WHAT DO I BRING TO TABLE?
@@ -44,6 +45,7 @@ I’ve got 1+ years of diverse leadership and management experience ready to be 
 Java, JavaScript (ES6), React JS, Bootstrap, Node JS, Express JS, Firebase Firestore, HTML5, CSS3, My SQL, MongoDB, Photoshop, Illustrator, XD and more.
 
 ⚡ Fun fact: I love to Code and lift weights.
+
 
 ### Spotify Playing 🎧
 
