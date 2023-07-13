@@ -31,16 +31,7 @@
 <br />
 
 ### IN A NUTSHELL <br/>
-Pro at Web Development, Full Stack Development and making things look beautiful. 
-
-🔭 WHAT DO I BRING TO TABLE?
-I’ve got 1+ years of diverse leadership and management experience ready to be put to use. My primary focus is on building Front End Web Applications. My background in graphic design, and web development allows me to fuse both the art and technology world together in perfect harmony making me a valuable asset for any team.
-
-🌱 I DONʼT WANT...
-...Just another job. I want to solve problems and make people’s lives easier in a community that shares my passion for technology.
-
-🥅  THE TECHNOLOGIES
-Java, JavaScript (ES6), React JS, Bootstrap, Node JS, Express JS, Firebase Firestore, HTML5, CSS3, My SQL, MongoDB, Photoshop, Illustrator, XD and more.
+Accomplished Full Stack Web Developer specializing in AWS serverless technologies, TypeScript, and cutting-edge React. Passionate about engineering innovative, end-to-end web applications that elevate user experiences. Expertise in AWS Cognito, Lambda, DynamoDB, and modern React frameworks. Proven problem solver with strong leadership and communication skills. Lifelong learner committed to staying at the forefront of technology. Let's redefine web development together. Reach out to create remarkable digital experiences.
 
 ⚡ Fun fact: I love to Code and lift weights.
 
