@@ -31,7 +31,7 @@
 <br />
 
 ### IN A NUTSHELL <br/>
-Accomplished Full Stack Web Developer specializing in AWS serverless technologies, TypeScript, and cutting-edge React. Passionate about engineering innovative, end-to-end web applications that elevate user experiences. Expertise in AWS Cognito, Lambda, DynamoDB, and modern React frameworks. Proven problem solver with strong leadership and communication skills. Lifelong learner committed to staying at the forefront of technology. Let's redefine web development together. Reach out to create remarkable digital experiences.
+With an added 4 years of experience, accomplished Full Stack Web Developer specializing in AWS serverless technologies, TypeScript, and cutting-edge React. Passionate about engineering innovative, end-to-end web applications that elevate user experiences. Expertise in AWS Cognito, Lambda, DynamoDB, and modern React frameworks. Proven problem solver with strong leadership and communication skills. Lifelong learner committed to staying at the forefront of technology. Feel free to explore my projects and get in touch at vikashbollam@gmail.com. I'm always open to new opportunities and collaborations! 
 
 ⚡ Fun fact: I love to Code and lift weights.
 
