@@ -38,15 +38,16 @@ With an added 4 years of experience, accomplished Full Stack Web Developer speci
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="kesavSaiVikash codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_user_id&cover_image=true&theme=default" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kesavSaiVikash GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kesavSaiVikash&show_icons=true&hide_border=true" />
+  <img align="left" alt="kesavSaiVikash GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kesavSaiVikash&show_icons=true&hide_border=true" />
 
 </details>
+
 
 [website]: https://www.kesavbollam.com/
 [instagram]: https://instagram.com/vikash_naidu
